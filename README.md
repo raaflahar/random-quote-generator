@@ -1,8 +1,7 @@
-# React + Vite
+# Random Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Random Quote Generator is a project that create some random quote from many famous people in the entire world. Users can interactively change the quote that users may know but in random order. This project is created using Quotable API by Luke Peavey [here](https://github.com/lukePeavey/quotable) and build as to learning progress regarding Asynchronous Programming.
 
-Currently, two official plugins are available:
+Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Users may interact with button that create random quote.
